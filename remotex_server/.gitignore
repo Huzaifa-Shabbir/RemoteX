@@ -1,0 +1,4 @@
+.env
+node_modules/
+*.log
+node_modules/@supabase/auth-js/dist/main/lib/constants.d.ts
