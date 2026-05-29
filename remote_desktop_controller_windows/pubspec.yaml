@@ -1,0 +1,32 @@
+name: remotex_app
+description: RemoteX - Control Your PC From Anywhere
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  ffi: ^2.2.0
+  flutter:
+    sdk: flutter
+  image: ^4.8.0
+  provider: ^6.1.2
+  qr_flutter: ^4.1.0
+  supabase_flutter: ^2.5.6
+  win32: ^5.0.0
+  http: ^0.13.6
+  file_picker: ^10.1.9
+  syncfusion_flutter_pdfviewer: any
+  video_player: any
+  just_audio: any
+  url_launcher: ^6.1.10
+  path: ^1.8.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

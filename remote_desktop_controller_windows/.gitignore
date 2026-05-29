@@ -1,0 +1,21 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Metadata (optional but recommended)
+.metadata
+
+# OS files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+frame.bgra
+frame.bgra
